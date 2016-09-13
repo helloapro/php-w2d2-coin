@@ -19,8 +19,16 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Specifications
+* Given an input, returns number of quarters and the remainder amount
+    * Input: 94
+    * Output: 3, 19
+* Given an input, returns number of quarters, dimes, and the remainder amount
+    * Input: 94
+    * Output: 3, 1, 9
+* Given an input, returns number of quarters, dimes, nickels and pennies
+    * Input: 94
+    * Output: 3, 1, 1, 4
 
-*
 
 
 ## Known Bugs
